@@ -23,7 +23,7 @@
 
 - 📫 Feel free to reach out **Discord: jumper_dev**
 
-- Visit my <p1 href="https://www.minazaky.tech">Website</p1>
+- Visit my website: https://www.minazaky.tech
 <!--Intro end-->
 
 
