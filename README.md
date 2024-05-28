@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 Feel free to reach me out **Discord: **
+- 📫 Feel free to reach me out **Discord: jumper_dev**
 <!--Intro end-->
 
 
