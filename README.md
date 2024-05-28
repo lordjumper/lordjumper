@@ -22,6 +22,8 @@
 - 🌱 I’m currently learning **C#**
 
 - 📫 Feel free to reach out **Discord: jumper_dev**
+
+- Visit my <p1 href="https://www.minazaky.tech">Website</p1>
 <!--Intro end-->
 
 
