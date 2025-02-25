@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi👋,I'm Mina</h1></summary>
+    <summary><h1 style="display: inline-block">Hi👋, I'm Mina</h1></summary>
   </ul>
 </div>
 
@@ -19,11 +19,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Resume**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 📫 Feel free to reach out **Discord: lordjumper**
-
-- Visit my website: https://www.minazaky.tech
 <!--Intro end-->
 
 
