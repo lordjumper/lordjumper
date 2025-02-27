@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Resume**
+- 🔭 I’m currently working on **A Game**
 
 - 🌱 I’m currently learning **C#**
 
