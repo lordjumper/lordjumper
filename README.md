@@ -17,9 +17,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Games**
+- 🔭 I’m currently working on: **Games**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning: **C#**
 
 - 📫 Feel free to reach out **Discord: lordjumper**
 <!--Intro end-->
