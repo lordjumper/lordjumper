@@ -14,7 +14,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on: **Games**
+- 🔭 I’m currently working on: **Game Development**
 
 - 🌱 I’m currently learning: **C#**
 
