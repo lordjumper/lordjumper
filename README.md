@@ -52,6 +52,8 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/OtmGW7s3znAAAAAi/miku-hatsune-miku.gif"  />
+<div align="center" overflow="show">
+  <img height="150" src="https://media.tenor.com/OtmGW7s3znAAAAAi/miku-hatsune-miku.gif"  />
+</div>
 
 ###
